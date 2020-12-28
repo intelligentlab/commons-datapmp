@@ -26,5 +26,5 @@ hs_err_pid*
 
 # Hidden Project Directories
 .git/
-.setttings/
+.settings/
 target/
